@@ -1,0 +1,236 @@
+Uri: https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700;900&family=Roboto:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.blic.rs\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAqEw.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\merriweather\v31\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAqEw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcqEw.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\merriweather\v31\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcqEw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAqEw.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\merriweather\v31\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAqEw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\www.blic.rs\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://ocdn.eu/blic/blic_navigation_menu_icons/bg-na-blic2.svg
+File Name: C:\Downloaded Web Sites\www.blic.rs\blic\blic_navigation_menu_icons\bg-na-blic2.svg
+Content Type: image/svg+xml
+
+Uri: https://ocdn.eu/blic/blic_navigation_menu_icons/logo_x2.png
+File Name: C:\Downloaded Web Sites\www.blic.rs\blic\blic_navigation_menu_icons\logo_x2.png
+Content Type: image/png
+
+Uri: https://ocdn.eu/blic/blic_navigation_menu_icons/logo_x2.webp
+File Name: C:\Downloaded Web Sites\www.blic.rs\blic\blic_navigation_menu_icons\logo_x2.webp
+Content Type: application/octet-stream
+
+Uri: https://ocdn.eu/blic/blic_navigation_menu_icons/sportal2.svg
+File Name: C:\Downloaded Web Sites\www.blic.rs\blic\blic_navigation_menu_icons\sportal2.svg
+Content Type: image/svg+xml
+
+Uri: https://ocdn.eu/mis/wrapper/blic.rs/13022025/ads.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\mis\wrapper\blic.rs\13022025\ads.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/mis/wrapper/blic.rs/13022025/prebid.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\mis\wrapper\blic.rs\13022025\prebid.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/pulscms-transforms/1/167k9kuTURBXy9hZGRkYmFmYS05NzIxLTRjYTgtOGViMS04MTUyMzM1MGIxYzMuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\167k9kuTURBXy9hZGRkYmFmYS05NzIxLTRjYTgtOGViMS04MTUyMzM1MGIxYzMuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/2lpk9kuTURBXy82OTI4ZTY5Mi1iYzI3LTQ1NTctYjU1Ny05M2Q0YWJlZWRkMmEuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\2lpk9kuTURBXy82OTI4ZTY5Mi1iYzI3LTQ1NTctYjU1Ny05M2Q0YWJlZWRkMmEuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/5Ifk9kpTURBXy82ZDNjZmU4Yjk1ZTE4YzU4YzQ0OWIyMzNlZjI5MDYxOS5qcGeRkwXNAQ7MmN4AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\5Ifk9kpTURBXy82ZDNjZmU4Yjk1ZTE4YzU4YzQ0OWIyMzNlZjI5MDYxOS5qcGeRkwXNAQ7MmN4AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/a1Wk9kuTURBXy9jNzhkMDE2MS04MzMzLTRmNDMtOTc0ZS1iYjdjOGQ2YTRiNTguanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\a1Wk9kuTURBXy9jNzhkMDE2MS04MzMzLTRmNDMtOTc0ZS1iYjdjOGQ2YTRiNTguanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/aEwk9kuTURBXy9jNmJjMTc4ZC03NTEzLTRkYjMtYTExNC01OTFiZmUxNTcyZmIuanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\aEwk9kuTURBXy9jNmJjMTc4ZC03NTEzLTRkYjMtYTExNC01OTFiZmUxNTcyZmIuanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/EP4k9kuTURBXy9kNzg1M2RkNi0zOTgzLTQxM2ItOTRlYS05YzYxYTA3NWRkMjYuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\EP4k9kuTURBXy9kNzg1M2RkNi0zOTgzLTQxM2ItOTRlYS05YzYxYTA3NWRkMjYuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/Gh0k9kuTURBXy80N2Y0ZDdhMi1kOWYyLTRhZjUtYTg1ZC03MzMzNDU4ZWZjNmEuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\Gh0k9kuTURBXy80N2Y0ZDdhMi1kOWYyLTRhZjUtYTg1ZC03MzMzNDU4ZWZjNmEuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/h-Hk9kuTURBXy80ZGFhZGVmZC1mZTcwLTRiMzQtODUwMC0zNjA3YmFjYzFmZDguanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\h-Hk9kuTURBXy80ZGFhZGVmZC1mZTcwLTRiMzQtODUwMC0zNjA3YmFjYzFmZDguanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/hitk9kuTURBXy8wNDE0NjQ1Yy00NzY5LTRlNjMtOTRmMS1hNDRkOGJlMGQyYTQuanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\hitk9kuTURBXy8wNDE0NjQ1Yy00NzY5LTRlNjMtOTRmMS1hNDRkOGJlMGQyYTQuanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/Ifxk9kpTURBXy80YjlmZDA4N2QyNjI1Y2IxMWUwOTMxYmQ1ZDRiMDY5ZS5qcGeRkwLNA1IA3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\Ifxk9kpTURBXy80YjlmZDA4N2QyNjI1Y2IxMWUwOTMxYmQ1ZDRiMDY5ZS5qcGeRkwLNA1IA3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/iqak9kuTURBXy85MGU3M2MyNS0yZTBiLTQ1ZmItODM5ZC1jYzE1Y2Q1MTc3NGUuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\iqak9kuTURBXy85MGU3M2MyNS0yZTBiLTQ1ZmItODM5ZC1jYzE1Y2Q1MTc3NGUuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/mVzk9kuTURBXy8yZDliYzJjMC03NGE4LTRkN2QtOTNkOC1mYTljMGQ2MWIxYzMuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\mVzk9kuTURBXy8yZDliYzJjMC03NGE4LTRkN2QtOTNkOC1mYTljMGQ2MWIxYzMuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/nGTk9kuTURBXy9hNDEzNjNmOC00NjkzLTQ4YzgtOTRjYi1iYTQxMDdkMzAyZWUuanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\nGTk9kuTURBXy9hNDEzNjNmOC00NjkzLTQ4YzgtOTRjYi1iYTQxMDdkMzAyZWUuanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/o9uk9kpTURBXy8xM2U5MDdlOGJkMGU2OWYyOGQxZThlZDg0MDgzYjZhNC5qcGeRkwXNBLDNAqPeAAGhMAE
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\o9uk9kpTURBXy8xM2U5MDdlOGJkMGU2OWYyOGQxZThlZDg0MDgzYjZhNC5qcGeRkwXNBLDNAqPeAAGhMAE
+Content Type: image/jpeg
+
+Uri: https://ocdn.eu/pulscms-transforms/1/pSIk9kuTURBXy8wZmI1MGUyZi0zNTY0LTRjM2YtYmQ3NC1mNzYzMjNmMjg5NWEuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\pSIk9kuTURBXy8wZmI1MGUyZi0zNTY0LTRjM2YtYmQ3NC1mNzYzMjNmMjg5NWEuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/qZTk9kpTURBXy85ZjhmMzgwMzFhZTBmNjdjMDRiN2FiNDk1OTgxNmU0NC5qcGeRkwLNA1IA3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\qZTk9kpTURBXy85ZjhmMzgwMzFhZTBmNjdjMDRiN2FiNDk1OTgxNmU0NC5qcGeRkwLNA1IA3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/R3fk9kuTURBXy9jODVlOTY5Yy1jZTYzLTQ2N2YtYmEyYS04YzYxMGMwODAzMzUuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\R3fk9kuTURBXy9jODVlOTY5Yy1jZTYzLTQ2N2YtYmEyYS04YzYxMGMwODAzMzUuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/Ra-k9kuTURBXy85YjJlYTVhZS1jMzk1LTRjODItOGY0Ny00Yzc1ZTY0ZWQ4NGEuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\Ra-k9kuTURBXy85YjJlYTVhZS1jMzk1LTRjODItOGY0Ny00Yzc1ZTY0ZWQ4NGEuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/Roek9kuTURBXy80ZGFhZGVmZC1mZTcwLTRiMzQtODUwMC0zNjA3YmFjYzFmZDguanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\Roek9kuTURBXy80ZGFhZGVmZC1mZTcwLTRiMzQtODUwMC0zNjA3YmFjYzFmZDguanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/Rvgk9kuTURBXy82ZjBiYmZhZS0xYzgxLTQ0ZjQtODYyNC1hMmMwNDUzMGZhYWQuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\Rvgk9kuTURBXy82ZjBiYmZhZS0xYzgxLTQ0ZjQtODYyNC1hMmMwNDUzMGZhYWQuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/SGck9kuTURBXy9lOGFlNmZjOS1kZDYyLTQ1YWUtYTZiZS00ZDA5ODMzNGM2ZGYuanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\SGck9kuTURBXy9lOGFlNmZjOS1kZDYyLTQ1YWUtYTZiZS00ZDA5ODMzNGM2ZGYuanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/vlLk9kuTURBXy8xN2E3OTM0YS00Mjc4LTQyM2UtOTFkOS1lYjM1YmI5YTc2YjUuanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\vlLk9kuTURBXy8xN2E3OTM0YS00Mjc4LTQyM2UtOTFkOS1lYjM1YmI5YTc2YjUuanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/W2ak9kuTURBXy9iMGE3N2JiMC0wMDE5LTQxODItOWFkNy1hZjQzZDNmMWQ0NDAud2VicJGTBc0CqM0Bf94AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\W2ak9kuTURBXy9iMGE3N2JiMC0wMDE5LTQxODItOWFkNy1hZjQzZDNmMWQ0NDAud2VicJGTBc0CqM0Bf94AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/W_vk9kuTURBXy83NTk5ZjBmZi1jZmVjLTRlZGUtOWM2OC1hOTQ2MDM0OTg5NGEuanBlZ5GTBcxezF7eAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\W_vk9kuTURBXy83NTk5ZjBmZi1jZmVjLTRlZGUtOWM2OC1hOTQ2MDM0OTg5NGEuanBlZ5GTBcxezF7eAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/w_Xk9kuTURBXy84OWM1NmU1Ny04ZDM2LTQ5MTYtOWU3Yi00MDRjZTQ0Y2RhNjguanBlZ5GTBc0BDsyY3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\w_Xk9kuTURBXy84OWM1NmU1Ny04ZDM2LTQ5MTYtOWU3Yi00MDRjZTQ0Y2RhNjguanBlZ5GTBc0BDsyY3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/XAOk9ktTURBXy9jOWFkMjQyNC1kNGVlLTQzMGMtODQ0Yy0wYWE3OTAxM2VhNzYucG5nkZMFzQEOzJjeAAGhMAU
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\XAOk9ktTURBXy9jOWFkMjQyNC1kNGVlLTQzMGMtODQ0Yy0wYWE3OTAxM2VhNzYucG5nkZMFzQEOzJjeAAGhMAU
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/YsJk9kpTURBXy8xM2U5MDdlOGJkMGU2OWYyOGQxZThlZDg0MDgzYjZhNC5qcGeRkwLNAxYA3gABoTAF
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\YsJk9kpTURBXy8xM2U5MDdlOGJkMGU2OWYyOGQxZThlZDg0MDgzYjZhNC5qcGeRkwLNAxYA3gABoTAF
+Content Type: image/webp
+
+Uri: https://ocdn.eu/pulscms-transforms/1/zfgk9kuTURBXy8xMmRlYjJmMC1jNzBhLTRjYzgtYTUzNC1kOGEyZjZhZGVhMzcuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+File Name: C:\Downloaded Web Sites\www.blic.rs\pulscms-transforms\1\zfgk9kuTURBXy8xMmRlYjJmMC1jNzBhLTRjYzgtYTUzNC1kOGEyZjZhZGVhMzcuanBlZ5GTBc0CqM0Bf94AAaEwBQ
+Content Type: image/webp
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/desktop/carousel.bundle.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\desktop\carousel.bundle.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/img/logo_x2.webp
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\img\logo_x2.webp
+Content Type: image/webp
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/js/common/loadingComments.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\js\common\loadingComments.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/js/libs/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\js\libs\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/js/libs/ls.unveilhooks.min.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\js\libs\ls.unveilhooks.min.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/js/libs/smooth.scroll.min.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\js\libs\smooth.scroll.min.js
+Content Type: application/javascript
+
+Uri: https://ocdn.eu/ucs/static/blicperun/2fd3bf6fac6e0578e7ec6749a518e76a/manifest/manifest.json
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\2fd3bf6fac6e0578e7ec6749a518e76a\manifest\manifest.json
+Content Type: application/json
+
+Uri: https://ocdn.eu/ucs/static/blicperun/6e41097996c2e78dda0fea8f9952b705/img/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\6e41097996c2e78dda0fea8f9952b705\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ocdn.eu/ucs/static/blicperun/6e41097996c2e78dda0fea8f9952b705/img/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\6e41097996c2e78dda0fea8f9952b705\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ocdn.eu/ucs/static/blicperun/6e41097996c2e78dda0fea8f9952b705/img/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.blic.rs\ucs\static\blicperun\6e41097996c2e78dda0fea8f9952b705\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pahtdz.tech/c/blic.rs.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\c\blic.rs.js
+Content Type: application/javascript
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\tag\js\f.txt
+Content Type: text/javascript
+
+Uri: https://tentacles.smartocto.com/ten/tentacle.js
+File Name: C:\Downloaded Web Sites\www.blic.rs\ten\tentacle.js
+Content Type: application/javascript
+
+Uri: https://www.blic.rs/rss/?categoryUuid=f9d287a8-6be0-5529-a632-280fd148cb08
+File Name: C:\Downloaded Web Sites\www.blic.rs\rss\index.htm
+Content Type: text/xml
+
+Uri: https://www.blic.rs/vesti/hronika/dacic-uhapsena-cetiri-pripadnika-organizovane-kriminalne-grupe/vehxml6
+File Name: C:\Downloaded Web Sites\www.blic.rs\vesti\hronika\dacic-uhapsena-cetiri-pripadnika-organizovane-kriminalne-grupe\vehxml6.html
+Content Type: text/html
+
+Uri: https://www.blic.rs/vesti/hronika/dacic-uhapsena-cetiri-pripadnika-organizovane-kriminalne-grupe/vehxml6?strana=komentari
+File Name: C:\Downloaded Web Sites\www.blic.rs\vesti\hronika\dacic-uhapsena-cetiri-pripadnika-organizovane-kriminalne-grupe\vehxml6-1.html
+Content Type: text/html
+
+Uri: https://www.clip.rs/widget/resources/images/exchangeRateFlags.gif
+File Name: C:\Downloaded Web Sites\www.blic.rs\widget\resources\images\exchangeRateFlags.gif
+Content Type: image/gif
+

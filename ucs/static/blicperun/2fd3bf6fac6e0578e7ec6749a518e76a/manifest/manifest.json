@@ -1,0 +1,43 @@
+{
+  "short_name": "blic.rs",
+  "name": "blic.rs",
+  "gcm_sender_id": "103953800507",
+  "icons": [
+    {
+      "src": "https://ocdn.eu/images/pulscms/ODY7MDMsMjU4LDAsMCwx/5816e340414001e5ab8a5bffe27827ba.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ocdn.eu/images/pulscms/Mzk7MDMsMjU4LDAsMCwx/0e4eeb52197613addd138e404f642dcf.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ocdn.eu/images/pulscms/ZWU7MDMsMjU4LDAsMCwx/7479579a834af2f6035f17f4c5bc3019.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ocdn.eu/images/pulscms/OTE7MDMsMjU4LDAsMCwx/97e82516d042b2676f3b4aebe85d2e2f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://www.blic.rs",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#c00",
+  "orientation": "portrait",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.makonda.blic"
+    },
+    {
+      "platform": "web",
+      "url": "https://www.blic.rs"
+    }
+  ]
+}
